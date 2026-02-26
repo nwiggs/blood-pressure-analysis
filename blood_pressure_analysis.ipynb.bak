@@ -16,7 +16,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 17,
    "id": "e272ebac",
    "metadata": {},
    "outputs": [],
@@ -26,7 +26,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 18,
    "id": "36b043e4",
    "metadata": {},
    "outputs": [
@@ -150,7 +150,7 @@
        "4                  103  "
       ]
      },
-     "execution_count": 3,
+     "execution_count": 18,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -164,7 +164,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": 19,
    "id": "459f69f2",
    "metadata": {},
    "outputs": [],
@@ -175,7 +175,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": 20,
    "id": "91cbef77",
    "metadata": {},
    "outputs": [
@@ -188,7 +188,7 @@
        "      dtype='str')"
       ]
      },
-     "execution_count": 5,
+     "execution_count": 20,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -199,7 +199,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 21,
    "id": "29746363",
    "metadata": {},
    "outputs": [
@@ -209,7 +209,7 @@
        "(154, 9)"
       ]
      },
-     "execution_count": 6,
+     "execution_count": 21,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -220,7 +220,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
+   "execution_count": 22,
    "id": "e35485b1",
    "metadata": {},
    "outputs": [
@@ -239,7 +239,7 @@
        "dtype: int64"
       ]
      },
-     "execution_count": 7,
+     "execution_count": 22,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -250,7 +250,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 23,
    "id": "414700d7",
    "metadata": {},
    "outputs": [
@@ -265,7 +265,7 @@
        "Name: Patient_ID, dtype: str"
       ]
      },
-     "execution_count": 8,
+     "execution_count": 23,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -279,7 +279,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
+   "execution_count": 24,
    "id": "df2feeb1",
    "metadata": {},
    "outputs": [
@@ -293,7 +293,7 @@
        "Name: count, dtype: int64"
       ]
      },
-     "execution_count": 9,
+     "execution_count": 24,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -318,7 +318,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
+   "execution_count": 25,
    "id": "cf3d4d7d",
    "metadata": {},
    "outputs": [
@@ -372,7 +372,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 11,
+   "execution_count": 26,
    "id": "b8930a0b",
    "metadata": {},
    "outputs": [
@@ -440,7 +440,7 @@
        "5        A_J               1.0"
       ]
      },
-     "execution_count": 11,
+     "execution_count": 26,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -462,7 +462,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 12,
+   "execution_count": 27,
    "id": "077a8b2c",
    "metadata": {},
    "outputs": [
@@ -472,7 +472,7 @@
        "'A_A'"
       ]
      },
-     "execution_count": 12,
+     "execution_count": 27,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -488,7 +488,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 13,
+   "execution_count": 28,
    "id": "bfd0c54e",
    "metadata": {},
    "outputs": [],
@@ -498,7 +498,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 14,
+   "execution_count": 29,
    "id": "b399f51f",
    "metadata": {},
    "outputs": [
@@ -598,7 +598,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 15,
+   "execution_count": null,
    "id": "54354c99",
    "metadata": {},
    "outputs": [
@@ -672,7 +672,7 @@
        "4             Dr. Basit        B_H        False"
       ]
      },
-     "execution_count": 15,
+     "execution_count": 30,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -690,7 +690,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 16,
+   "execution_count": 31,
    "id": "5afbecfd",
    "metadata": {},
    "outputs": [
@@ -758,7 +758,7 @@
        "0    Dr. Basit                  58.333333"
       ]
      },
-     "execution_count": 16,
+     "execution_count": 31,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -780,7 +780,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 17,
+   "execution_count": 32,
    "id": "bcb0b9ad",
    "metadata": {},
    "outputs": [
